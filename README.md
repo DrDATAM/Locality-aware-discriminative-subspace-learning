@@ -2,8 +2,8 @@
 
 > **Python implementation of the algorithm presented in:**
 >
-> M. Sharma *et al.*, "Locality-Aware Discriminative Subspace Learning for Image Classification,"
-> *IEEE Transactions on Image Processing*, 2022.
+> Meenakshi and S. Srirangarajan, "Locality-Aware Discriminative Subspace Learning for Image Classification," in IEEE Transactions on Instrumentation and Measurement, vol. 71, pp. 1-14, 2022, Art no. 5015414, doi: 10.1109/TIM.2022.3187735
+
 > [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9812722)
 
 ---
