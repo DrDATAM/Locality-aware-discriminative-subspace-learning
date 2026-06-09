@@ -185,13 +185,15 @@ These are the dataset-specific settings reported in the paper:
 If you use this code in your research, please cite the original paper:
 
 ```bibtex
-@article{sharma2022ladsl,
-  title   = {Locality-Aware Discriminative Subspace Learning for Image Classification},
-  journal = {IEEE Transactions on Image Processing},
-  year    = {2022},
-  doi     = {10.1109/TIP.2022.3185242},
-  url     = {https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9812722}
-}
+@ARTICLE{MeenakshiM_LADSL,
+  author={Meenakshi and Srirangarajan, Seshan},
+  journal={IEEE Transactions on Instrumentation and Measurement}, 
+  title={Locality-Aware Discriminative Subspace Learning for Image Classification}, 
+  year={2022},
+  volume={71},
+  number={},
+  pages={1-14},
+  doi={10.1109/TIM.2022.3187735}}
 ```
 
 ---
